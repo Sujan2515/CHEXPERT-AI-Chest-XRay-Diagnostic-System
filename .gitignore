@@ -1,0 +1,34 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Datasets
+Datasets/raw/
+Datasets/common/
+
+# Trained model weights
+models/*.pth
+models/*.pt
+models/*.onnx
+
+# Environment variables / secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
