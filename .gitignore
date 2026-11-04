@@ -13,7 +13,6 @@ Datasets/raw/
 Datasets/common/
 
 # Trained model weights
-models/*.pth
 models/*.pt
 models/*.onnx
 
